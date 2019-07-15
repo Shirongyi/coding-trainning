@@ -1,0 +1,2 @@
+# coding-trainning
+somthing funny
